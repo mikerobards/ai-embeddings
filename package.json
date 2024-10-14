@@ -1,5 +1,5 @@
 {
-  "name": "Scrim-s05mh84",
+  "name": "ai-embeddings",
   "description": "https://v2.scrimba.com/the-ai-engineer-path-c02v/~01l",
   "scripts": {
     "start": "vite",
@@ -8,8 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
     "openai": "4.11.1",
     "vite": "latest"
-  },
-  "devDependencies": {}
+  }
 }
